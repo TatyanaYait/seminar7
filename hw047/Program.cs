@@ -28,4 +28,3 @@ int n = int.Parse(Console.ReadLine());
 double [,] arr = FillArray(m,n);
 PrintArray(arr);
 Console.WriteLine(FillArray);
-//Console.WriteLine(string.Join("  " + FillArray));
